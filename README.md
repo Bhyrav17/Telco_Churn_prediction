@@ -23,7 +23,6 @@
 >* It is important for such big industry players to know if their customers are loyal or not (customer churn)
 >* Customer retention is less costlier than that of acquiring new customers
 >* keeping the churn rate at a minimum in simple terms means more profit or revenue
->* Project Reference for a telco churn problem [REFERENCE](https://towardsdatascience.com/end-to-end-machine-learning-project-telco-customer-churn-90744a8df97d)
 
 <img src="https://skillsireupload.s3.amazonaws.com/upload/photos/2020/05/5twqQmRLzwjfNafls5WA_21_34ff7747f0fbaa5f140904a2c44ffe5a_image.jpg" />
 
